@@ -1,0 +1,18 @@
+.wrapper {
+    background-color: #ffffff;
+}
+.bar {
+    background-color: #ffffff;
+    border-bottom-color: #bdc6cd;
+    border-bottom-width: 0.5;
+}
+.inner {
+    background-color: #ffffff;
+}
+.img-twitter-avatar {
+    height: 28;
+}
+
+.img-twitter-star {
+    height: 22;
+}
